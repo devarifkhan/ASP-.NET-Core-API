@@ -5578,11 +5578,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\noobd\\source\\repos\\CRUD API\\CRUDTests\\CRUDTests.csproj",
+      "projectUniqueName": "C:\\Users\\noobd\\source\\repos\\ASP-.NET-Core-API\\CRUDTests\\CRUDTests.csproj",
       "projectName": "CRUDTests",
-      "projectPath": "C:\\Users\\noobd\\source\\repos\\CRUD API\\CRUDTests\\CRUDTests.csproj",
+      "projectPath": "C:\\Users\\noobd\\source\\repos\\ASP-.NET-Core-API\\CRUDTests\\CRUDTests.csproj",
       "packagesPath": "C:\\Users\\noobd\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\noobd\\source\\repos\\CRUD API\\CRUDTests\\obj\\",
+      "outputPath": "C:\\Users\\noobd\\source\\repos\\ASP-.NET-Core-API\\CRUDTests\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\noobd\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -5599,14 +5599,14 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "C:\\Users\\noobd\\source\\repos\\CRUD API\\Entities\\Entities.csproj": {
-              "projectPath": "C:\\Users\\noobd\\source\\repos\\CRUD API\\Entities\\Entities.csproj"
+            "C:\\Users\\noobd\\source\\repos\\ASP-.NET-Core-API\\Entities\\Entities.csproj": {
+              "projectPath": "C:\\Users\\noobd\\source\\repos\\ASP-.NET-Core-API\\Entities\\Entities.csproj"
             },
-            "C:\\Users\\noobd\\source\\repos\\CRUD API\\ServiceContracts\\ServiceContracts.csproj": {
-              "projectPath": "C:\\Users\\noobd\\source\\repos\\CRUD API\\ServiceContracts\\ServiceContracts.csproj"
+            "C:\\Users\\noobd\\source\\repos\\ASP-.NET-Core-API\\ServiceContracts\\ServiceContracts.csproj": {
+              "projectPath": "C:\\Users\\noobd\\source\\repos\\ASP-.NET-Core-API\\ServiceContracts\\ServiceContracts.csproj"
             },
-            "C:\\Users\\noobd\\source\\repos\\CRUD API\\Services\\Services.csproj": {
-              "projectPath": "C:\\Users\\noobd\\source\\repos\\CRUD API\\Services\\Services.csproj"
+            "C:\\Users\\noobd\\source\\repos\\ASP-.NET-Core-API\\Services\\Services.csproj": {
+              "projectPath": "C:\\Users\\noobd\\source\\repos\\ASP-.NET-Core-API\\Services\\Services.csproj"
             }
           }
         }

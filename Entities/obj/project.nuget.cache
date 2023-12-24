@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "8EG5D9s+QlnVtLOkwcQbJb/fKAC/cyFRhfBZuumhjXQ2Ga8fMjwWyMBzqrFNsBaNTP+YyQZtucXeC3Wh/ww1oA==",
+  "dgSpecHash": "blntQrI0s0LA6nkuknYLIVuK+CbGcyelRkCoF04qeqBOHb1qtm26CKBIpcTsSxumivq5FzH6hZkDSW1H3LGVVQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\noobd\\source\\repos\\CRUD API\\Entities\\Entities.csproj",
+  "projectFilePath": "C:\\Users\\noobd\\source\\repos\\ASP-.NET-Core-API\\Entities\\Entities.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

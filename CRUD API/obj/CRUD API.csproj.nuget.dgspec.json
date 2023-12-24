@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\noobd\\source\\repos\\CRUD API\\CRUD API\\CRUD API.csproj": {}
+    "C:\\Users\\noobd\\source\\repos\\ASP-.NET-Core-API\\CRUD API\\CRUD API.csproj": {}
   },
   "projects": {
-    "C:\\Users\\noobd\\source\\repos\\CRUD API\\CRUD API\\CRUD API.csproj": {
+    "C:\\Users\\noobd\\source\\repos\\ASP-.NET-Core-API\\CRUD API\\CRUD API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\noobd\\source\\repos\\CRUD API\\CRUD API\\CRUD API.csproj",
+        "projectUniqueName": "C:\\Users\\noobd\\source\\repos\\ASP-.NET-Core-API\\CRUD API\\CRUD API.csproj",
         "projectName": "CRUD API",
-        "projectPath": "C:\\Users\\noobd\\source\\repos\\CRUD API\\CRUD API\\CRUD API.csproj",
+        "projectPath": "C:\\Users\\noobd\\source\\repos\\ASP-.NET-Core-API\\CRUD API\\CRUD API.csproj",
         "packagesPath": "C:\\Users\\noobd\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\noobd\\source\\repos\\CRUD API\\CRUD API\\obj\\",
+        "outputPath": "C:\\Users\\noobd\\source\\repos\\ASP-.NET-Core-API\\CRUD API\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\noobd\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -28,17 +28,17 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\noobd\\source\\repos\\CRUD API\\CRUDTests\\CRUDTests.csproj": {
-                "projectPath": "C:\\Users\\noobd\\source\\repos\\CRUD API\\CRUDTests\\CRUDTests.csproj"
+              "C:\\Users\\noobd\\source\\repos\\ASP-.NET-Core-API\\CRUDTests\\CRUDTests.csproj": {
+                "projectPath": "C:\\Users\\noobd\\source\\repos\\ASP-.NET-Core-API\\CRUDTests\\CRUDTests.csproj"
               },
-              "C:\\Users\\noobd\\source\\repos\\CRUD API\\Entities\\Entities.csproj": {
-                "projectPath": "C:\\Users\\noobd\\source\\repos\\CRUD API\\Entities\\Entities.csproj"
+              "C:\\Users\\noobd\\source\\repos\\ASP-.NET-Core-API\\Entities\\Entities.csproj": {
+                "projectPath": "C:\\Users\\noobd\\source\\repos\\ASP-.NET-Core-API\\Entities\\Entities.csproj"
               },
-              "C:\\Users\\noobd\\source\\repos\\CRUD API\\ServiceContracts\\ServiceContracts.csproj": {
-                "projectPath": "C:\\Users\\noobd\\source\\repos\\CRUD API\\ServiceContracts\\ServiceContracts.csproj"
+              "C:\\Users\\noobd\\source\\repos\\ASP-.NET-Core-API\\ServiceContracts\\ServiceContracts.csproj": {
+                "projectPath": "C:\\Users\\noobd\\source\\repos\\ASP-.NET-Core-API\\ServiceContracts\\ServiceContracts.csproj"
               },
-              "C:\\Users\\noobd\\source\\repos\\CRUD API\\Services\\Services.csproj": {
-                "projectPath": "C:\\Users\\noobd\\source\\repos\\CRUD API\\Services\\Services.csproj"
+              "C:\\Users\\noobd\\source\\repos\\ASP-.NET-Core-API\\Services\\Services.csproj": {
+                "projectPath": "C:\\Users\\noobd\\source\\repos\\ASP-.NET-Core-API\\Services\\Services.csproj"
               }
             }
           }
@@ -75,14 +75,14 @@
         }
       }
     },
-    "C:\\Users\\noobd\\source\\repos\\CRUD API\\CRUDTests\\CRUDTests.csproj": {
+    "C:\\Users\\noobd\\source\\repos\\ASP-.NET-Core-API\\CRUDTests\\CRUDTests.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\noobd\\source\\repos\\CRUD API\\CRUDTests\\CRUDTests.csproj",
+        "projectUniqueName": "C:\\Users\\noobd\\source\\repos\\ASP-.NET-Core-API\\CRUDTests\\CRUDTests.csproj",
         "projectName": "CRUDTests",
-        "projectPath": "C:\\Users\\noobd\\source\\repos\\CRUD API\\CRUDTests\\CRUDTests.csproj",
+        "projectPath": "C:\\Users\\noobd\\source\\repos\\ASP-.NET-Core-API\\CRUDTests\\CRUDTests.csproj",
         "packagesPath": "C:\\Users\\noobd\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\noobd\\source\\repos\\CRUD API\\CRUDTests\\obj\\",
+        "outputPath": "C:\\Users\\noobd\\source\\repos\\ASP-.NET-Core-API\\CRUDTests\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\noobd\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -99,14 +99,14 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\noobd\\source\\repos\\CRUD API\\Entities\\Entities.csproj": {
-                "projectPath": "C:\\Users\\noobd\\source\\repos\\CRUD API\\Entities\\Entities.csproj"
+              "C:\\Users\\noobd\\source\\repos\\ASP-.NET-Core-API\\Entities\\Entities.csproj": {
+                "projectPath": "C:\\Users\\noobd\\source\\repos\\ASP-.NET-Core-API\\Entities\\Entities.csproj"
               },
-              "C:\\Users\\noobd\\source\\repos\\CRUD API\\ServiceContracts\\ServiceContracts.csproj": {
-                "projectPath": "C:\\Users\\noobd\\source\\repos\\CRUD API\\ServiceContracts\\ServiceContracts.csproj"
+              "C:\\Users\\noobd\\source\\repos\\ASP-.NET-Core-API\\ServiceContracts\\ServiceContracts.csproj": {
+                "projectPath": "C:\\Users\\noobd\\source\\repos\\ASP-.NET-Core-API\\ServiceContracts\\ServiceContracts.csproj"
               },
-              "C:\\Users\\noobd\\source\\repos\\CRUD API\\Services\\Services.csproj": {
-                "projectPath": "C:\\Users\\noobd\\source\\repos\\CRUD API\\Services\\Services.csproj"
+              "C:\\Users\\noobd\\source\\repos\\ASP-.NET-Core-API\\Services\\Services.csproj": {
+                "projectPath": "C:\\Users\\noobd\\source\\repos\\ASP-.NET-Core-API\\Services\\Services.csproj"
               }
             }
           }
@@ -162,14 +162,14 @@
         }
       }
     },
-    "C:\\Users\\noobd\\source\\repos\\CRUD API\\Entities\\Entities.csproj": {
+    "C:\\Users\\noobd\\source\\repos\\ASP-.NET-Core-API\\Entities\\Entities.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\noobd\\source\\repos\\CRUD API\\Entities\\Entities.csproj",
+        "projectUniqueName": "C:\\Users\\noobd\\source\\repos\\ASP-.NET-Core-API\\Entities\\Entities.csproj",
         "projectName": "Entities",
-        "projectPath": "C:\\Users\\noobd\\source\\repos\\CRUD API\\Entities\\Entities.csproj",
+        "projectPath": "C:\\Users\\noobd\\source\\repos\\ASP-.NET-Core-API\\Entities\\Entities.csproj",
         "packagesPath": "C:\\Users\\noobd\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\noobd\\source\\repos\\CRUD API\\Entities\\obj\\",
+        "outputPath": "C:\\Users\\noobd\\source\\repos\\ASP-.NET-Core-API\\Entities\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\noobd\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -217,14 +217,14 @@
         }
       }
     },
-    "C:\\Users\\noobd\\source\\repos\\CRUD API\\ServiceContracts\\ServiceContracts.csproj": {
+    "C:\\Users\\noobd\\source\\repos\\ASP-.NET-Core-API\\ServiceContracts\\ServiceContracts.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\noobd\\source\\repos\\CRUD API\\ServiceContracts\\ServiceContracts.csproj",
+        "projectUniqueName": "C:\\Users\\noobd\\source\\repos\\ASP-.NET-Core-API\\ServiceContracts\\ServiceContracts.csproj",
         "projectName": "ServiceContracts",
-        "projectPath": "C:\\Users\\noobd\\source\\repos\\CRUD API\\ServiceContracts\\ServiceContracts.csproj",
+        "projectPath": "C:\\Users\\noobd\\source\\repos\\ASP-.NET-Core-API\\ServiceContracts\\ServiceContracts.csproj",
         "packagesPath": "C:\\Users\\noobd\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\noobd\\source\\repos\\CRUD API\\ServiceContracts\\obj\\",
+        "outputPath": "C:\\Users\\noobd\\source\\repos\\ASP-.NET-Core-API\\ServiceContracts\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\noobd\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -241,8 +241,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\noobd\\source\\repos\\CRUD API\\Entities\\Entities.csproj": {
-                "projectPath": "C:\\Users\\noobd\\source\\repos\\CRUD API\\Entities\\Entities.csproj"
+              "C:\\Users\\noobd\\source\\repos\\ASP-.NET-Core-API\\Entities\\Entities.csproj": {
+                "projectPath": "C:\\Users\\noobd\\source\\repos\\ASP-.NET-Core-API\\Entities\\Entities.csproj"
               }
             }
           }
@@ -276,14 +276,14 @@
         }
       }
     },
-    "C:\\Users\\noobd\\source\\repos\\CRUD API\\Services\\Services.csproj": {
+    "C:\\Users\\noobd\\source\\repos\\ASP-.NET-Core-API\\Services\\Services.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\noobd\\source\\repos\\CRUD API\\Services\\Services.csproj",
+        "projectUniqueName": "C:\\Users\\noobd\\source\\repos\\ASP-.NET-Core-API\\Services\\Services.csproj",
         "projectName": "Services",
-        "projectPath": "C:\\Users\\noobd\\source\\repos\\CRUD API\\Services\\Services.csproj",
+        "projectPath": "C:\\Users\\noobd\\source\\repos\\ASP-.NET-Core-API\\Services\\Services.csproj",
         "packagesPath": "C:\\Users\\noobd\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\noobd\\source\\repos\\CRUD API\\Services\\obj\\",
+        "outputPath": "C:\\Users\\noobd\\source\\repos\\ASP-.NET-Core-API\\Services\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\noobd\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -300,11 +300,11 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\noobd\\source\\repos\\CRUD API\\Entities\\Entities.csproj": {
-                "projectPath": "C:\\Users\\noobd\\source\\repos\\CRUD API\\Entities\\Entities.csproj"
+              "C:\\Users\\noobd\\source\\repos\\ASP-.NET-Core-API\\Entities\\Entities.csproj": {
+                "projectPath": "C:\\Users\\noobd\\source\\repos\\ASP-.NET-Core-API\\Entities\\Entities.csproj"
               },
-              "C:\\Users\\noobd\\source\\repos\\CRUD API\\ServiceContracts\\ServiceContracts.csproj": {
-                "projectPath": "C:\\Users\\noobd\\source\\repos\\CRUD API\\ServiceContracts\\ServiceContracts.csproj"
+              "C:\\Users\\noobd\\source\\repos\\ASP-.NET-Core-API\\ServiceContracts\\ServiceContracts.csproj": {
+                "projectPath": "C:\\Users\\noobd\\source\\repos\\ASP-.NET-Core-API\\ServiceContracts\\ServiceContracts.csproj"
               }
             }
           }

@@ -32,11 +32,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\noobd\\source\\repos\\CRUD API\\ServiceContracts\\ServiceContracts.csproj",
+      "projectUniqueName": "C:\\Users\\noobd\\source\\repos\\ASP-.NET-Core-API\\ServiceContracts\\ServiceContracts.csproj",
       "projectName": "ServiceContracts",
-      "projectPath": "C:\\Users\\noobd\\source\\repos\\CRUD API\\ServiceContracts\\ServiceContracts.csproj",
+      "projectPath": "C:\\Users\\noobd\\source\\repos\\ASP-.NET-Core-API\\ServiceContracts\\ServiceContracts.csproj",
       "packagesPath": "C:\\Users\\noobd\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\noobd\\source\\repos\\CRUD API\\ServiceContracts\\obj\\",
+      "outputPath": "C:\\Users\\noobd\\source\\repos\\ASP-.NET-Core-API\\ServiceContracts\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\noobd\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -53,8 +53,8 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "C:\\Users\\noobd\\source\\repos\\CRUD API\\Entities\\Entities.csproj": {
-              "projectPath": "C:\\Users\\noobd\\source\\repos\\CRUD API\\Entities\\Entities.csproj"
+            "C:\\Users\\noobd\\source\\repos\\ASP-.NET-Core-API\\Entities\\Entities.csproj": {
+              "projectPath": "C:\\Users\\noobd\\source\\repos\\ASP-.NET-Core-API\\Entities\\Entities.csproj"
             }
           }
         }

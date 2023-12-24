@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "vR00+/L9VP6VNxrGOFAHmx/0KSQqUD9Zu+LxTp190mI=",
+  "Hash": "v5zV/H2uKAqhi0J8W0Lpk2uycTf7VBsAum9zXF7zIcQ=",
   "Source": "CRUD API",
   "BasePath": "_content/CRUD API",
   "Mode": "Default",
@@ -10,17 +10,17 @@
     {
       "Name": "CRUD API\\wwwroot",
       "Source": "CRUD API",
-      "ContentRoot": "C:\\Users\\noobd\\source\\repos\\CRUD API\\CRUD API\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\noobd\\source\\repos\\ASP-.NET-Core-API\\CRUD API\\wwwroot\\",
       "BasePath": "_content/CRUD API",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "C:\\Users\\noobd\\source\\repos\\CRUD API\\CRUD API\\wwwroot\\StyleSheet.css",
+      "Identity": "C:\\Users\\noobd\\source\\repos\\ASP-.NET-Core-API\\CRUD API\\wwwroot\\StyleSheet.css",
       "SourceId": "CRUD API",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\noobd\\source\\repos\\CRUD API\\CRUD API\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\noobd\\source\\repos\\ASP-.NET-Core-API\\CRUD API\\wwwroot\\",
       "BasePath": "_content/CRUD API",
       "RelativePath": "StyleSheet.css",
       "AssetKind": "All",

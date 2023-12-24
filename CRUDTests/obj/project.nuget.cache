@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Chz6QDmaXmGCPEFw0oZEsDFzfH3NsrOTBVYGL4ca5vv5kxYyMO1ctyYcs7Rrv5+6AC69OE8HDdWB/43Ya9+llA==",
+  "dgSpecHash": "nuLxc0xTm3IgVrBPhYK9BwQGzstknuW+5u/ggpvOVePckmzasS8lXWHT15XoCe7DrfXKJR1UllGr5EoOFrAVFg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\noobd\\source\\repos\\CRUD API\\CRUDTests\\CRUDTests.csproj",
+  "projectFilePath": "C:\\Users\\noobd\\source\\repos\\ASP-.NET-Core-API\\CRUDTests\\CRUDTests.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\noobd\\.nuget\\packages\\coverlet.collector\\6.0.0\\coverlet.collector.6.0.0.nupkg.sha512",
     "C:\\Users\\noobd\\.nuget\\packages\\microsoft.codecoverage\\17.6.0\\microsoft.codecoverage.17.6.0.nupkg.sha512",

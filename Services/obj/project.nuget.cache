@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "PetyN0zvn+hmb2Ubmq/Cfvs69gRCBEvPj3ahqqaGmyX/mN85vKq7SRq5QUiA/C66K4SlWxWAb0L2Bb+xCwKncQ==",
+  "dgSpecHash": "Ti2hp2YcE/q/P0iwwU/BL+pzTk5xhpwWQs0yK2cbz7Uprg5gr16/w7NSnq5qAeCX/zPvsvZDzB4Vc5wC8BTRzg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\noobd\\source\\repos\\CRUD API\\Services\\Services.csproj",
+  "projectFilePath": "C:\\Users\\noobd\\source\\repos\\ASP-.NET-Core-API\\Services\\Services.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

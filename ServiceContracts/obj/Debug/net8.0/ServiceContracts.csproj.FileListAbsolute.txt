@@ -13,3 +13,19 @@ C:\Users\noobd\source\repos\CRUD API\ServiceContracts\obj\Debug\net8.0\ServiceCo
 C:\Users\noobd\source\repos\CRUD API\ServiceContracts\obj\Debug\net8.0\refint\ServiceContracts.dll
 C:\Users\noobd\source\repos\CRUD API\ServiceContracts\obj\Debug\net8.0\ServiceContracts.pdb
 C:\Users\noobd\source\repos\CRUD API\ServiceContracts\obj\Debug\net8.0\ref\ServiceContracts.dll
+C:\Users\noobd\source\repos\ASP-.NET-Core-API\ServiceContracts\bin\Debug\net8.0\ServiceContracts.deps.json
+C:\Users\noobd\source\repos\ASP-.NET-Core-API\ServiceContracts\bin\Debug\net8.0\ServiceContracts.dll
+C:\Users\noobd\source\repos\ASP-.NET-Core-API\ServiceContracts\bin\Debug\net8.0\ServiceContracts.pdb
+C:\Users\noobd\source\repos\ASP-.NET-Core-API\ServiceContracts\bin\Debug\net8.0\Entities.dll
+C:\Users\noobd\source\repos\ASP-.NET-Core-API\ServiceContracts\bin\Debug\net8.0\Entities.pdb
+C:\Users\noobd\source\repos\ASP-.NET-Core-API\ServiceContracts\obj\Debug\net8.0\ServiceContracts.csproj.AssemblyReference.cache
+C:\Users\noobd\source\repos\ASP-.NET-Core-API\ServiceContracts\obj\Debug\net8.0\ServiceContracts.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\noobd\source\repos\ASP-.NET-Core-API\ServiceContracts\obj\Debug\net8.0\ServiceContracts.AssemblyInfoInputs.cache
+C:\Users\noobd\source\repos\ASP-.NET-Core-API\ServiceContracts\obj\Debug\net8.0\ServiceContracts.AssemblyInfo.cs
+C:\Users\noobd\source\repos\ASP-.NET-Core-API\ServiceContracts\obj\Debug\net8.0\ServiceContracts.csproj.CoreCompileInputs.cache
+C:\Users\noobd\source\repos\ASP-.NET-Core-API\ServiceContracts\obj\Debug\net8.0\ServiceContracts.sourcelink.json
+C:\Users\noobd\source\repos\ASP-.NET-Core-API\ServiceContracts\obj\Debug\net8.0\ServiceContracts.csproj.CopyComplete
+C:\Users\noobd\source\repos\ASP-.NET-Core-API\ServiceContracts\obj\Debug\net8.0\ServiceContracts.dll
+C:\Users\noobd\source\repos\ASP-.NET-Core-API\ServiceContracts\obj\Debug\net8.0\refint\ServiceContracts.dll
+C:\Users\noobd\source\repos\ASP-.NET-Core-API\ServiceContracts\obj\Debug\net8.0\ServiceContracts.pdb
+C:\Users\noobd\source\repos\ASP-.NET-Core-API\ServiceContracts\obj\Debug\net8.0\ref\ServiceContracts.dll
