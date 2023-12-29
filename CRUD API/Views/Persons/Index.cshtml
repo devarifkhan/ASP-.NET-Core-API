@@ -5,9 +5,9 @@
 }
 
 
-<form action="~/persons/index" method="get">
+<form asp-controller="Persons" asp-action="Index" method="get">
 <h1>Persons</h1>
-    <a href="~/persons/create">Create Person</a>
+    <a asp-controller="Persons" asp-action="Create" >Create Person</a>
 
 <div class="box flex">
     <div class="flex-1">
@@ -36,7 +36,7 @@
 
     <div class="flex-1">
         <button class="button button-blue-black">Search</button>
-        <a href="~/persons/index" class="link-hover">Clear all</a>
+            <a asp-controller="Persons" asp-action="Index"  class="link-hover">Clear all</a>
     </div>
 
     
@@ -86,6 +86,7 @@
 
 
 
+                <th>Options</th>
 
 
                 
@@ -110,7 +111,19 @@
                     <td style="width:10%">@person.Address</td>
                     <td style="width:10%">@person.ReceiveNewsLetters</td>
                 
+                    <td style="width:20%">
+                        <a asp-controller="Persons"
+                        asp-action="Edit"
+                        asp-route-personID="@person.PersonID"
+                       
+                        >Edit</a>
+                        @*   /persons/edit/1 *@
 
+                        <a asp-controller="Persons"
+                           asp-action="Delete"
+                           asp-route-personID="@person.PersonID">Delete</a>
+                        @*   /persons/Delete/1 *@
+                    </td>
             </tr>
         }
 
