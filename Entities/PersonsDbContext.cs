@@ -9,6 +9,12 @@ namespace Entities
 {
     public class PersonsDbContext:DbContext
     {
+        public PersonsDbContext(DbContextOptions options): base(options)
+        {
+
+        }
+
+
         public DbSet<Country> Countries { get; set; }
     public DbSet<Person> Persons { get; set; }
 
@@ -22,7 +28,7 @@ namespace Entities
             //Seed to Countries
 
             string countriesJson = System.IO.File.ReadAllText(
-                "coutries.json");
+                "countries.json");
 
             List<Country>? countries=
             System.Text.Json.JsonSerializer.Deserialize<List<Country>>(countriesJson);

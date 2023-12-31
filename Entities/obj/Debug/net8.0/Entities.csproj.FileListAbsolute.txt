@@ -21,3 +21,6 @@ C:\Users\noobd\source\repos\ASP-.NET-Core-API\Entities\obj\Debug\net8.0\Entities
 C:\Users\noobd\source\repos\ASP-.NET-Core-API\Entities\obj\Debug\net8.0\refint\Entities.dll
 C:\Users\noobd\source\repos\ASP-.NET-Core-API\Entities\obj\Debug\net8.0\Entities.pdb
 C:\Users\noobd\source\repos\ASP-.NET-Core-API\Entities\obj\Debug\net8.0\ref\Entities.dll
+C:\Users\noobd\source\repos\ASP-.NET-Core-API\Entities\bin\Debug\net8.0\Entities.runtimeconfig.json
+C:\Users\noobd\source\repos\ASP-.NET-Core-API\Entities\obj\Debug\net8.0\Entities.csproj.AssemblyReference.cache
+C:\Users\noobd\source\repos\ASP-.NET-Core-API\Entities\obj\Debug\net8.0\Entities.genruntimeconfig.cache
